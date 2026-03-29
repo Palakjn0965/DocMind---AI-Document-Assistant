@@ -1,7 +1,7 @@
 [project]
 name = "1st-project"
 version = "0.1.0"
-description = "Add your description here"
+description = "An AI-powered document assistant using RAG"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
